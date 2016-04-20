@@ -1,0 +1,5 @@
+require 'hawatel_tlb/mode/ratio'
+require 'hawatel_tlb/mode/dynamicratio'
+require 'hawatel_tlb/mode/roundrobin'
+require 'hawatel_tlb/mode/fastest'
+require 'hawatel_tlb/mode/weighted'
