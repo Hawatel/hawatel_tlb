@@ -27,7 +27,7 @@ Or install it yourself as:
 |roundrobin|Standard [Round-robin](https://en.wikipedia.org/wiki/Round-robin_scheduling) algorithm with fail node and flapping detection|
 |weighted|Algorithm based on specified by user weight, return currently available host with highest metric.  |
 
-## Example Usage
+## Example usage
 
 ###### Create client 
 ``` ruby
