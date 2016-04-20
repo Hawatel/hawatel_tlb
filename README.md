@@ -1,6 +1,6 @@
 # Hawatel_tlb
 
-Hawatel_tlb is a ruby version of load balancer which the purpose is to dynamic return selected address IP/hostname based on specified algorithm. Depend on settings gem have built features like regularly monitoring status backend nodes, response time, calculating fastest node based on history, flapping detection and more. Currently, supported algorithms are round robin, dynamic ration, fastest, ratio and weighted.
+Hawatel_tlb is a ruby version of load balancer which the purpose is to dynamic return selected address IP/hostname based on specified algorithm. Depend on settings a gem has built features like regularly monitoring status backend nodes, response time, calculating fastest node based on history, flapping detection and more. Currently, supported algorithms are round robin, dynamic ration, fastest, ratio and weighted.
 ## Installation
 
 Add this line to your application's Gemfile:
